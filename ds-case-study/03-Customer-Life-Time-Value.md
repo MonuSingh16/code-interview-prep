@@ -88,3 +88,4 @@ Interviewer: “That is correct. Now, I’d like to see you design the model.
 ”Once you laid the grouandwork of the problem and variables, the approach is the problem is straightforward. You cn explain how you would use the raw variable to derive model features through feature engineering and selection. Lastly, you could explain what model you would use.As a starting point, do not be concerned about the sophistication of your algorithm. Interviwers generally do not care whether you would decide to use neural networks or logistic regression.The focus point is on your design. Lastly, you can evaluate your model on regression evaluation metrics like mean squared error, mean absolute error, mean absolute percentage error and such.
 
 In each step explained, expect one or two follow-up questions. As long as you explain andjustify your approach, you will ace this machine learning design interview
+
